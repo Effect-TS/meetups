@@ -1,7 +1,7 @@
 ![Effect logo](https://github.com/user-attachments/assets/2658df4a-9762-424f-908b-5100a3db0792)
 
 # Welcome to Effect Meetup Template
-This is a template repository for Effect meetup organizers. It includes talk submissions as issues and other resources. Feel free to use it for your meetups.
+This is a template repository for Effect meetup organizers. It includes talk submissions as issues and other resources. Feel free to use it and customize it for your meetups.
 
 ## Talk submissions
 Submit your Effect-related talk proposal to showcase your use cases and how you're leveraging Effect in real-world projects.
