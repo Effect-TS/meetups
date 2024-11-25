@@ -27,7 +27,7 @@ Speakers and attendees are expected to observe the code of conduct. Please read 
 [Code of Conduct](/Code%20of%20Conduct.md)
 
 ## Spread the word!
-Feel free to share the event on X (Twitter) and with your network everywhere!
+Feel free to share the event with your network everywhere!
 
 ***
 
