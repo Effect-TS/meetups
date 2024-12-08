@@ -4,7 +4,7 @@
 This is a template repository for Effect meetup organizers. It includes talk submissions as issues and other resources. Feel free to use it and customize it for your meetups.
 
 ## Talk submissions
-Submit your Effect-related talk proposal to showcase your use cases and how you're leveraging Effect in real-world projects.
+Let us know your use cases and how you leverage Effect in real-world projects by submitting your talk proposal below.
 
 [↗️ Submit your talk](../../issues/new?assignees=&labels=&projects=&template=talks.yml) 
 
