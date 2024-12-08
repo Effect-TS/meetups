@@ -14,7 +14,7 @@ Effect is an ecosystem of tools to build production-ready applications in TypeSc
 - [Website & docs](https://effect.website/)
 - [Community & support](https://discord.gg/effect-ts)
 - [Follow us on X (Twitter)](https://twitter.com/EffectTS_)
-- [GitHub](https://github.com/Effect-TS)
+- [Follow us on Bluesky](https://bsky.app/profile/effect-ts.bsky.social)
 
 ## Other resources
 
