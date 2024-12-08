@@ -4,7 +4,7 @@
 
 The combination mark logo is the primary way we show the Effect brand. 
 
-<img width="320" alt="effect combination mark black" src="https://github.com/user-attachments/assets/975bb29e-ef4a-4e43-8cac-7517e3450c0e">
+<img width="320" alt="effect combination mark black" src="https://github.com/user-attachments/assets/89607cfd-6311-4e4c-8c52-7af3f09bc739">
 
 [Download PNG](https://drive.google.com/drive/folders/1b_AiLcjsngu6AIdXlj653T9qbwsCp23I?usp=drive_link) | [Download SVG](https://drive.google.com/drive/folders/1xHZ_aO5Ya2dgS1DkWTJ_WtiLVqlcOrHs?usp=drive_link)
 
@@ -12,7 +12,7 @@ The combination mark logo is the primary way we show the Effect brand.
 
 The Effect logo symbol is used when there isn’t enough room for the combination mark or other design considerations—for example, an application icon, favicon, or social media.
 
-<img width="88" alt="effect logo symbol black" src="https://github.com/user-attachments/assets/30680a24-b953-4207-9f17-648591f4aecc">
+<img width="88" alt="effect logo symbol black" src="https://github.com/user-attachments/assets/ecef2aba-a0d6-4415-b916-555580eca7e3">
 
 [Download PNG](https://drive.google.com/drive/folders/13KrXXEutvIgW3QgQ1GTwuHdtrrgAHl0d?usp=drive_link) | [Download SVG](https://drive.google.com/drive/folders/1wNsNTvMOZczwiXl0YTHXp5y1plQXPY-8?usp=drive_link)
 
